@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I'm Yannis Amzal
 
-<!--
-**yamzal1/yamzal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer specializing in **web** and **mobile development**. I enjoy creating projects that blend clean, functional design with efficient, robust backend systems.
 
-Here are some ideas to get you started:
+🌍 Based in **Paris, France**  
+👨‍💻 Focused on **full-stack** and **cross-platform development**  
+🚀 Driven by curiosity for new technologies and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Frontend**: React, Next.js, Tailwind CSS, Bootstrap, HTML/CSS, JavaScript
+- **Backend**: Node.js, PHP, Fastify, GraphQL
+- **Mobile Development**: React Native, Expo, Swift, Kotlin, Flutter
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
+- **Other Tools**: Git, Docker, Prisma, Drizzle ORM
+
+## 🌱 Currently Learning
+
+- Advanced **DevOps** techniques, focusing on containerization and CI/CD workflows
+- **Rust** for systems programming and exploring new performance-oriented paradigms
+
+## 📫 Let's Connect
+
+- LinkedIn: [Yannis Amzal](https://www.linkedin.com/in/yannis-amzal)
+
+Feel free to get in touch!
