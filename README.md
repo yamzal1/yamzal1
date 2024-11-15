@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Yannis Amzal
 
-I'm a passionate Software Engineer specializing in **web** and **mobile development**. I enjoy creating projects that blend clean, functional design with efficient, robust backend systems.
+I'm a Software Engineer specializing in **web** and **mobile development**.
 
 🌍 Based in **Paris, France**  
-👨‍💻 Focused on **full-stack** and **cross-platform development**  
-🚀 Driven by curiosity for new technologies and frameworks
+👨‍💻 Focused on **full-stack** and **cross-platform development**
 
 ## 🔧 Technologies & Tools
 
